@@ -1,0 +1,92 @@
+body{
+	font-family: "Verdana";
+	margin: 0 auto;
+	background-image: url('css/grfx/bg.png');
+	background-repeat-y: no-repeat;
+
+}
+
+.top-menu {
+	padding-left: 5px;
+}
+
+nav {
+	background-image: url('css/grfx/header.jpg');
+	margin: 0 auto;
+	margin-top: -25px;
+	width: 50%;
+	height: 24%;
+	margin-bottom: 0px;
+}
+
+li {
+	display: inline;
+	padding-left: 0px;
+	margin-left: 0px;
+	padding: 10px;
+	color: white;
+	font-size: 13px;
+}
+
+h1{
+	padding: 10px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 30px;
+}
+
+#title {
+	padding: 10px;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 157px;
+}
+
+section {
+	width: 50%;
+	background-color: white;
+	margin: 0 auto;
+	margin-top: -20px;
+}
+
+#leftimg {
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+}
+
+.top-left {
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	float: left;
+}
+
+h2 {
+	padding: 20px;
+	padding-bottom: 0px;
+}
+
+.content {
+	padding: 25px;
+	padding-top: 5px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.top-right {
+	padding: 10px;
+	float: right;
+}
+
+a:hover {
+	color: #a9d5d4;
+}
+
+#selected {
+	color: #a9d5d4;
+}
